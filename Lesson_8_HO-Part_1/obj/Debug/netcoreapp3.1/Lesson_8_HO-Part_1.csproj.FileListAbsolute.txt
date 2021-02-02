@@ -1,0 +1,13 @@
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.exe
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.deps.json
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.runtimeconfig.json
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.runtimeconfig.dev.json
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.dll
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\bin\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.pdb
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.dll
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.pdb
+C:\Users\Jon\source\repos\Lesson_8_HO-Part_1\Lesson_8_HO-Part_1\obj\Debug\netcoreapp3.1\Lesson_8_HO-Part_1.genruntimeconfig.cache
